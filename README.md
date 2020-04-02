@@ -5,5 +5,7 @@ This CLI is to serve as a elementray glossary of regexp. terms (regular expressi
 The Gems used for this program include Nokogiri, Colorize, and Open-uri. 
 
 Users who have contributed to this file: amcmullen9291
-MIT LICENSE on file
+
+
+MIT LICENSE on file at https://github.com/amcmullen9291/ruby_pf/blob/master/LICENSE
 
