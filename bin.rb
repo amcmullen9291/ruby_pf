@@ -1,3 +1,5 @@
+# !/usr/bit/env ruby
+# chomod +x ./clinterface.rb
 
 require 'colorize'
 require 'pry'
