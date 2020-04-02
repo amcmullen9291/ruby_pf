@@ -1,8 +1,9 @@
 # ruby_pf
 
-This CLI is to serve as a beginner's guide through regex (regular expression) by providing the definition and symbol associated with  commonly used regex. The main website used for this glossary, http://ruby-doc.org/core-2.7.0, was parsed using the Nokogiri gem.
+This CLI is to serve as an introduction to regex (regular expressions) by providing the definition and symbol associated with  commonly used regex. The main website used for this glossary, http://ruby-doc.org/core-2.7.0, was parsed using the Nokogiri gem.
 
-The Gems used for this program include Nokogiri, Colorize, and Open-uri.  A Shebang line is not ruby at all (unless you want to call it a ruby comment).
+The Nokogiri, Colorize, and Open-uri gems were used for this program.  
+
 
 Users who have contributed to this file: amcmullen9291
 
